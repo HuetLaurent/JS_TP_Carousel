@@ -1,0 +1,56 @@
+#div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carouselJS {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 600px;
+    height: 300px;  
+}
+
+#image1 {
+    position: absolute;
+    left: 508px;
+    background-image: url(./img1.jpg);
+    width: 200px;
+    height: 300px;
+}
+
+#image2 {
+    position: absolute;
+    left: 708px;
+    background-image: url(./img2.jpg);
+    opacity: 0.0;
+    width: 200px;
+    height: 300px;
+}
+
+#image3 {
+    position: absolute;
+    background-image: url(./img3.jpg);
+    opacity: 0.0;
+    width: 200px;
+    height: 300px;
+}
+
+#image4 {
+    position: absolute;
+    background-image: url(./img4.jpg);
+    opacity: 0.0;
+    width: 200px;
+    height: 300px;
+}
+
+#image5 {
+    position: absolute;
+    left: 308px;
+    background-image: url(./img5.jpg);
+    opacity: 0.0;
+    width: 200px;
+    height: 300px;
+}
